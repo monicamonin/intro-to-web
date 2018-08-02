@@ -12,25 +12,25 @@ the html (hypertext markup language) describes the content of the page (i.e. the
 *(do we have content to add to this in the web media folder?)
 
 ### Course Tools
-we use Brackets to edit the html
-(which browser do we use now?)
-get them to open the html file up in Brackets, 
-go through the basic document structure?
-look at the code and change something
-then go back to the local file and refresh it, they can see the changes
+* we use Brackets to edit the html
+* (which browser do we use now?)
+* get them to open the html file up in Brackets, 
+* go through the basic document structure?
+* look at the code and change something
+* then go back to the local file and refresh it, they can see the changes
 
 ### Uploading a file to the server (we give them a base file) - we have a setup now that students will be using throughout their degree, will give you details on how this works.
-Andrew will send this through and you can test out
-Get all students to access their site folders
-And to upload the base example file and look at it over the internet 
-Change something locally and then upload again and refresh
-You don’t need to upload every time you make a change
-You can work on your file and view locally, and then upload when you are happy with all of your edits
+* Andrew will send this through and you can test out
+* Get all students to access their site folders
+* And to upload the base example file and look at it over the internet 
+* Change something locally and then upload again and refresh
+* You don’t need to upload every time you make a change
+* You can work on your file and view locally, and then upload when you are happy with all of your edits
 
 ### Basic HTML elements (i.e. h, p , img)
-open up the basic html file 
-talk through html tags
-html is a markup langauge
-it uses ‘tags’ to describe the content of the page
-When we have everything from a start tag to an end tag, it is is called a HTML element, some html elements have content, which is placed between the tags, some html elements like the br or img elements do not, these tags close and open in the one tag, see a tag in the example. In the image below are some common HTML tags which are covered in the lecture and with which you can mark up your content semantically.
-Go through each of the tags h1 - h6 is the hierarchy of headings, with h1 the most semantically 
+* open up the basic html file 
+* talk through html tags
+* html is a markup langauge
+* it uses ‘tags’ to describe the content of the page
+* When we have everything from a start tag to an end tag, it is is called a HTML element, some html elements have content, which is placed between the tags, some html elements like the br or img elements do not, these tags close and open in the one tag, see a tag in the example. In the image below are some common HTML tags which are covered in the lecture and with which you can mark up your content semantically.
+* Go through each of the tags h1 - h6 is the hierarchy of headings, with h1 the most semantically 
