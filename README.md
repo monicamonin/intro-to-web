@@ -1,9 +1,8 @@
 # intro-to-web
-Introduction to the Web for Text and Image II
 
-Overview of Class for 7th of August
+## Overview of Class for 7th of August
 
-# How the web works
+### How the web works
 get students to download the example files
 and to open the .html file up in the web browser
 they will see the url starts will file:// this means we are viewing the file locally. Just like when you open a file on your computer.
