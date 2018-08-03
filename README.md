@@ -27,8 +27,9 @@ and to open the index.html file (in 1.1-basic-web-page) up in the web browser (C
 * each time they make a change they need to refresh (if they are viewing the file locally)
 
 ### Uploading a file to the server (we give them a base file) - we have a setup now that students will be using throughout their degree, will give you details on how this works.
-* You can find a PDF that overviews this process on UTSOnline see Subject Documents > Web Task Tutorials
-* We also have some little tutorials on different things in there which the students can access or you can too!
+* You can find a PDF that overviews this process on UTSOnline see Subject Documents > Getting Your Work Online (Server Instructions)
+* We have asked for a folder to be made for each of you, once it is available we will let you know and you an go through this process before your class on Tuesday.
+* We also have some little tutorials on different things in the 'Web Task Tutorials' folder which the students can access or you can too!
 * Lead the students through the material that is in the PDF
 * This will take a while to heard them through this
 * Get them to upload the index.html file that is inside 1.1-basic-web-page
