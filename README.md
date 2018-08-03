@@ -45,3 +45,4 @@ and to open the index.html file (in 1.1-basic-web-page) up in the web browser (C
 * Go through each of the tags h1 - h6 is the hierarchy of headings, with h1 the most semantically
 * If time get them to open up 1.3-basic-visual-heirachy. HTML tage are semantic, we can see how the different tags denote what types of content the text is and creates a semantic hierarchy of information. The browser also does a basic stylised interpretation of this i.e. headings a bold and of different sizes and paragraph text is regular weight.
 * We have also given them the basic text of the Emil Ruder essay 'Rhythm' that they will be working with (1.4-page-with-copy-text). They should have a read of this over the week and also have a go at applying tags to the content. And to bring that file in next week.
+* They should also read through the brief online, https://monicamonin.github.io/intro-to-web/, and bring any questions that have to you next week.
