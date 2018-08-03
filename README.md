@@ -2,6 +2,9 @@
 
 ## Overview of Class for 7th of August
 
+###Download these files first. These are the files that students will be working with in class
+* https://github.com/clavis-magna/intro-to-web/archive/master.zip
+
 ### How the web works
 * get students to download the example files
 and to open the index.html file (in 1.1-basic-web-page) up in the web browser (Chrome)
