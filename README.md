@@ -2,7 +2,7 @@
 
 ## Overview of Class for 7th of August
 
-###Download these files first. These are the files that students will be working with in class
+### Download these files first. These are the files that students will be working with in class
 * https://github.com/clavis-magna/intro-to-web/archive/master.zip
 
 ### How the web works
@@ -27,7 +27,8 @@ and to open the index.html file (in 1.1-basic-web-page) up in the web browser (C
 * each time they make a change they need to refresh (if they are viewing the file locally)
 
 ### Uploading a file to the server (we give them a base file) - we have a setup now that students will be using throughout their degree, will give you details on how this works.
-* Andrew will send this through and you can test out (see the PDF)
+* You can find a PDF that overviews this process on UTSOnline see Subject Documents > Web Task Tutorials
+* We also have some little tutorials on different things in there which the students can access or you can too!
 * Lead the students through the material that is in the PDF
 * This will take a while to heard them through this
 * Get them to upload the index.html file that is inside 1.1-basic-web-page
