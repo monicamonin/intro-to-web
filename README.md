@@ -1,5 +1,39 @@
 # Introduction to The Web
 
+## Overview of Class for 14th of August
+
+### CSS with focus on typography
+* andrew will give you a template file which shows students how they can use css to control the style of the type
+* take them through controlling the basic style of the font
+* first font-family, and explain how their are common web-safe fonts available on machines
+* see this link for a list https://www.w3schools.com/cssref/css_websafe_fonts.asp
+* get them to set font-family for one of their type elements, it tries to load the first font specified in this list, and if this is not available the next one and so on. i.e. font-family: "Times New Roman", Times, serif;
+* so you cannot just use any font available on your system, as the person looking at your web page somewhere else might not have that font on their system. we will show them how you can get around this next 
+* then go through the rest of the properties in the template stylesheet provided
+* give them time to play around with these
+
+
+### How to use web fonts
+* for this we will just be using google's web fonts
+* goto https://fonts.google.com/
+* look at a font
+* click select this font
+* click family selected
+* then on customise, here you can select which weight/s you want to use
+* get students to pick one weight
+* click on embed
+* copy the standard embed link i.e. <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+* and get them to paste it above where they import their style sheet, this is so that the fonts are referenced BEFORE they load their own style sheet and use them
+* get them to go into their style sheet and for one of their type element tags (i.e. h1) copy the 'specify in css' from Google Fonts i.e. font-family: 'Roboto', sans-serif; as a property for their style
+* save the file and refresh their version so they can see if their Google font has loaded
+
+
+### Basic Layout
+* for this you will just be taking them through applying padding and margin to the type elements i.e. adding white space
+
+### How to sketch up a layout
+* Students think up how they want to arrange the content, what content they want and sketch up a layout over the (looong) break until the next class. They can also work on the HTML in this time.
+
 ## Overview of Class for 7th of August
 
 ### Download these files first. These are the files that students will be working with in class
