@@ -52,7 +52,7 @@
 
 
 ### Placing an Image
-* Andrew will give an example showing how to place images, take students through this code
+* Andrew will give an example showing how to place images, take students through this code - still to come -
 * If time show them how to save images to the right size for web. this is a resource for how to do this https://www.taralesher.com/blog/exporting-photoshop-images-for-web
 
 ## Overview of Class for 7th of August
