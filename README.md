@@ -2,6 +2,10 @@
 
 ## Overview of Class for 14th of August
 
+### Download these files first. The example code for this week is in the session.2 folder
+#### nb. This has been updated so students will also need to download it again
+* https://github.com/clavis-magna/intro-to-web/archive/master.zip
+
 ### CSS with focus on typography
 * andrew will give you a template file which shows students how they can use css to control the style of the type
 * get students to download the files and open up the html file, notice the type does not have the default style
