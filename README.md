@@ -37,10 +37,19 @@
 
 
 ### Basic Layout
+* we can put space between blocks of type within a tyle element using line-height, but if we want to create space between different elements i.e. between a h1 and a p, then we need to using padding/margin
+* you can imagine each type element like a block, that spans the width of the web browser
+* i.e. if you do h1 {background: yellow;} we can see the 'box', this describes the 'content' area i.e. https://www.w3schools.com/css/css_boxmodel.asp
+* if you set the padding i.e. padding: 20px, this will add 20px padding around the entire element on all sides. See what happens
+* if we set the margin this creates space between the edge of the box and the next element
+* margin is generally the best way to create space between elements
+* if you do margin: 0px 0px 20px 0px; this allows you to set different margins for the different sides of the element. this will put a 20px margin between the h1 element and the p element beneath it. the sides are top right bottom left
 * for this you will just be taking them through applying padding and margin to the type elements i.e. adding white space
 
-### How to sketch up a layout
-* Students think up how they want to arrange the content, what content they want and sketch up a layout over the (looong) break until the next class. They can also work on the HTML in this time.
+
+### Placing an Image
+* Andrew will give an example showing how to place images, take students through this code
+* If time show them how to save images to the right size for web. this is a resource for how to do this https://www.taralesher.com/blog/exporting-photoshop-images-for-web
 
 ## Overview of Class for 7th of August
 
