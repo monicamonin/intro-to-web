@@ -4,17 +4,25 @@
 
 ### CSS with focus on typography
 * andrew will give you a template file which shows students how they can use css to control the style of the type
-* take them through controlling the basic style of the font
-* first font-family, and explain how their are common web-safe fonts available on machines
+* get students to download the files and open up the html file, notice the type does not have the default style
+* we style our webpages using CSS, cascading style sheet. CSS = Style. HTML = Content.
+* we reference an external stylesheet, a CSS file (show them CSS link, and get them to open up the CSS file in the HTML editor)
+* take them through how to attach a style to a HTML element i.e. a h1 element
+* h1 { } we denote the element we want to style and then have two curly brackets, inside these curly brackets we can style various properties of the element
+* i.e. font-style: italic; it's always property: propertyvalue;
+* then show them font-family, and explain how their are common web-safe fonts available on machines
 * see this link for a list https://www.w3schools.com/cssref/css_websafe_fonts.asp
-* get them to set font-family for one of their type elements, it tries to load the first font specified in this list, and if this is not available the next one and so on. i.e. font-family: "Times New Roman", Times, serif;
+* get them to set font-family for one of their type elements, it tries to load the first font specified in this list, and if this is not available the next one and so on. i.e. font-family: Arial, Helvetica, sans-serif; see https://www.w3schools.com/cssref/pr_font_font-family.asp
 * so you cannot just use any font available on your system, as the person looking at your web page somewhere else might not have that font on their system. we will show them how you can get around this next 
 * then go through the rest of the properties in the template stylesheet provided
 * give them time to play around with these
 
 
 ### How to use web fonts
-* for this we will just be using google's web fonts
+* what if we want to use fonts that aren't  system fonts?
+* then we can use fonts hosted by someone else or host fonts on our server
+* for example typekit has web fonts you can use, but you need to pay for them
+* for this we will just be using google's web fonts, as they have ok fonts, are easy to use and free, and will give you a sense of how web fonts work
 * goto https://fonts.google.com/
 * look at a font
 * click select this font
