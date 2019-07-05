@@ -1,6 +1,6 @@
 # Introduction to The Web
 
-## Overview of Class for 7th of August
+## Overview of Class for 23rd of July
 
 ### Download these files first. These are the files that students will be working with in class
 * https://github.com/clavis-magna/intro-to-web/archive/master.zip
@@ -24,7 +24,8 @@ and to open the index.html file (in 1.1-basic-web-page) up in the web browser (C
 * go through the basic document structure
 * html (hypertext markup language) is a markup langauge
 * it uses ‘tags’ to describe or 'mark up' the content of the page
-* <head> tag just contains information about the file
+* notice how there are opening tags and closing tags. Tags describe the content that is between their opening and closing
+* head tag just contains information about the file that the browser uses to understand the file and display it
 * body tag contains information about what to display in the browser window, they will be mainly changing things inside the body tags
 * look at the code and change something in one of the html tags
 * then go back to the local file and refresh it, they can see the changes
@@ -51,7 +52,11 @@ and to open the index.html file (in 1.1-basic-web-page) up in the web browser (C
 * We have also given them the basic text of the Emil Ruder essay 'Rhythm' that they will be working with (1.4-page-with-copy-text). They should have a read of this over the week and also have a go at applying tags to the content. And to bring that file in next week.
 * They should also read through the brief online, https://monicamonin.github.io/intro-to-web/, and bring any questions that have to you next week.
 
-## Overview of Class for 14th of August
+### For next week
+* Students do a sketch of the image they want to create
+
+
+## Overview of Class for 30th July
 
 ### Download these files first. The example code for this week is in the session.2 folder
 #### nb. This has been updated so students will also need to download it again
